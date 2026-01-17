@@ -82,7 +82,17 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 5.安装完成后会显示默认的：
 
-用户名、密码、端口、路径、面板访问地址----后面也可在面板设置更改！
+Username：用户名
+
+Password：密码
+
+Port：端口
+
+WebBasePath：路径
+
+Aceess URL：面板访问地址
+
+----后面也可在面板设置更改！
 
 <br>
 
