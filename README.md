@@ -2,6 +2,8 @@
 
 <img width="900" height="611" alt="4d3ae628-9aac-4b8b-94cb-b91e6b2241c6" src="https://github.com/user-attachments/assets/f7a63f25-dad5-4175-bb97-7ad319f86dd6" />
 
+视频教程：https://youtu.be/OkFUhLHO4uY
+
 3x-ui是一个支持多协议、多用户的Xray内核面板，具有过期日期、流量和IP限制功能。它能够同时支持Vmess、Vless、Trojan、ShadowSocks和Wireguard等多种协议，为用户提供更灵活的选择。且对小白特别友好，通过简单的命令即可轻松安装。轻松实现上网自由。
 
 <br>
